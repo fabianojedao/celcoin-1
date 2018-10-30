@@ -1,0 +1,2 @@
+bool LoadBlockIndex(bool): Assertion `block.hashMerkleRoot == uint256("0xa95b9f457f70633fcff90450ed57bbfc4dd45cb2034619b7c54ee80a1d266e91")' failed.
+
