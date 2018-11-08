@@ -4,7 +4,7 @@ CelCoin
 CelCoin (CELC) is a decentralised open source digital currency.
 
  - advanced hybrid proof-of-work (PoW) and proof-of-stake (PoS)
- - 400 million coins to be produced
+ - 1680 million coins to be produced
  - block hashing is BLAKE2s
  - PoW hashing is NeoScrypt
  - PoS hashing is SHA-256d
@@ -21,7 +21,7 @@ CelCoin (CELC) is a decentralised open source digital currency.
  - I2P/Tor ready
 
 
-Download
+DownloadS
 --------
 
 Please visit https://github.com/TrezarCoin/TrezarCoin/releases or
