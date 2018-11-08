@@ -21,7 +21,7 @@ CelCoin (CELC) is a decentralised open source digital currency.
  - I2P/Tor ready
 
 
-DownloadS
+Downloads
 --------
 
 Please visit https://github.com/TrezarCoin/TrezarCoin/releases or
