@@ -1,5 +1,11 @@
 CelCoin
 ===========
+What is CelCoin?
+
+CelCoin is an altcoin, an alternative cryptocurrency to Bitcoin; CelCoin is the first
+Spanish-American cryptocurrency and the only one born with an extensive network of
+adoptability and usability, to be digitally effective, here and now! sharing the
+Best features of Bitcoin and Ethereum.
 
 CelCoin (CELC) is a decentralised open source digital currency.
 
@@ -13,7 +19,7 @@ CelCoin (CELC) is a decentralised open source digital currency.
  - time warp and instamining protection
  - advanced checkpointing against 51% attacks
  - transaction messaging supported
- - PoW and PoS blocks carry the same fixed reward of 50 CELC
+ - PoW and PoS blocks carry this rewards: PoW 50 CELC / PoS 250 CELC
  - 6 confirmations for regular transactions
  - 50 confirmations for minted coins
  - very low transaction fees (most transactions are free)
@@ -24,12 +30,13 @@ CelCoin (CELC) is a decentralised open source digital currency.
 Downloads
 --------
 
-Please visit https://github.com/TrezarCoin/TrezarCoin/releases or
-http://trezarcoin.com if you need pre-compiled binaries.
+Please visit https://github.com/fabianojedao/celcoin-1 or
+http://celcoin.io 
 
 
 Support
 -------
 
-See https://bitcointalk.org/index.php?topic=2140812.0 if you need advice.
+See https://bitcointalk.org/index.php?topic=3854527.0 if you need advice.
+
 # Celcoin-Core-v3
